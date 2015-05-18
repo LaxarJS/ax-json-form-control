@@ -39,7 +39,7 @@ define( [
          return {
             scope: true,
             template: '<form novalidate>' +
-               '<span><i class="fa ax-icon-warn"></i> Das Formular wird auf Grund eines fehlerhaften JSON-Strings nicht aktualisiert.</span>' +
+               '<span><i class="fa ax-icon-warn"></i> Form is not being updated due to invalid JSON source.</span>' +
                '</form>',
             require: 'ngModel',
             replace: true,
