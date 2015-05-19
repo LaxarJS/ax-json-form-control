@@ -1,5 +1,6 @@
 {
    "name": "ax-json-form-control",
+
    "integration": {
       "technology": "angular"
    }

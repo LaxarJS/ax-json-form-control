@@ -1,6 +1,6 @@
 # AxJsonFormControl
 
-> A generic JSON-schema-based model editor, provided as an AngularJS directive
+> A generic JSON-schema-based model editor, provided as an AngularJS directive for LaxarJS widgets.
 
 This directive can be used to create JSON documents that are based on a certain schema.
 The schema is translated into corresponding HTML elements and each item of the JSON structure bound to it accordingly.
@@ -16,13 +16,13 @@ For general information on installing, styling and optimizing controls, have a l
 Install the control:
 
 ```sh
-bower install laxarjs.ax-json-form-control
+bower install laxar-json-form-control
 ```
 
 Reference the control from the `widget.json` of your widget:
  
 ```json
-   "controls": [ "laxarjs.ax-json-form-control" ]
+   "controls": [ "laxar-json-form-control" ]
 ```
 
 

@@ -1,7 +1,7 @@
 {
-   "name": "laxarjs.ax-json-form-control",
+   "name": "laxar-json-form-control",
    "version": "1.0.0-pre",
-   "description": "A generic JSON-schema-based model editor, provided as an AngularJS directive",
+   "description": "A generic JSON-schema-based model editor, provided as an AngularJS directive for LaxarJS widgets.",
    "authors": [],
    "license": "MIT",
    "main": "ax-json-form-control.js",

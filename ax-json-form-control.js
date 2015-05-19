@@ -7,7 +7,7 @@ define( [
    'require',
    'angular',
    'laxar',
-   'laxar_patterns',
+   'laxar-patterns',
    './form_types/helpers',
    './form_types/form_any',
    './form_types/form_array',
