@@ -13,6 +13,6 @@
       "bower_components"
    ],
    "dependencies": {
-      "laxar": "^1.0.0-alpha.14"
+      "laxar": "^1.0.0"
    }
 }
